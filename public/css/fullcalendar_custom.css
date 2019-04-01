@@ -1,0 +1,27 @@
+.fc-event {
+    border: none;
+}
+.fc-unthemed .fc-divider, .fc-unthemed .fc-popover, .fc-unthemed .fc-row, .fc-unthemed tbody, .fc-unthemed td, .fc-unthemed th, .fc-unthemed thead {
+    border-color: #f3f6f8;
+}
+
+.fc-button {
+    background: #f3f6f8;
+    border: none;
+    color: #6c757d;
+    text-transform: capitalize;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-radius: 3px;
+    margin: 0 3px;
+    padding: 6px 12px;
+    height: auto;
+}
+.fc-state-active, .fc-state-disabled, .fc-state-down {
+    background-color: var(--theme-color1);
+    color: #fff;
+    text-shadow: none;
+}
+.fc-state-hover {
+    background: #dee2e6;
+}

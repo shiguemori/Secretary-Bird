@@ -1,0 +1,3 @@
+[submodule "public/idealui"]
+	path = public/idealui
+	url = git@bitbucket.org:idealtrends/idealui-toolkit.git
